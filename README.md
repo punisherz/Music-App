@@ -1,5 +1,6 @@
 # Music-App
 This app plays beats on clicking on different colors. 
+
 ![](Screenshot%20(116).png)
 
 ## Tools used:
