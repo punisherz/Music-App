@@ -23,6 +23,11 @@ This app plays beats on clicking on different colors.
 1. Fork the repository.
 2. `git clone https://github.com/arteevraina/Music-App.git`
 
+## For beginners:
+1.download the zip file from this link :- https://github.com/arteevraina/Music-App/archive/master.zip
+2.open the zip file and inside it double tap the html file.
+
+
 ## Contribute:
 Feel and free to contribute to this project and improve its design and functionality to make it more comprehensive.
 
